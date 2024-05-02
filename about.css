@@ -54,3 +54,18 @@ li .dropdown {
 .dropdown:hover .dropdown-content {
     display: block;
 }
+
+.card a{
+    background-color: rgb(5, 116, 176);
+    color: white;
+    padding: 15px 20px;
+    display: block;
+    text-align: center;
+    margin: 20px 50px;
+    border-radius: 10px;
+    text-decoration: none;
+    list-style: none;
+}
+
+.card a:hover{
+    background-color:  rgb(6, 154, 234);}

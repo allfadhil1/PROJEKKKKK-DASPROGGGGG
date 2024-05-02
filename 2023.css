@@ -32,7 +32,7 @@
    text-align: center;
    transition: 1s ;
    padding-top: 200px;
-   margin-bottom: ;
+   margin-bottom: 0;
 
 
 }
@@ -479,4 +479,19 @@ span{
 
 .btna3:hover{
     height: 0%;
+}
+
+.contentt{
+    position: relative;
+    padding: 50px 50px 120px 80px;
+    max-width: 550px;
+}
+
+.contentt h2{
+    color: #fff;
+    font-size: 3em;
+}
+
+.contentt p{
+    color: #fff;
 }
